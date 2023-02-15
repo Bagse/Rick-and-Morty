@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/102260190/209456975-0c8ded7a-6538-4fd3-a49b-729e438955fa.png)
+![image](https://user-images.githubusercontent.com/102260190/218895680-a5ad7c1d-154f-452f-9172-b6065263a2a6.png)
 
 link: https://bagse.github.io/Rick-and-Morty/
 
